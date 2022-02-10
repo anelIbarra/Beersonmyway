@@ -5,6 +5,22 @@ body
         font-size:  16px;
         color: #333
 }
+#cabecera
+{
+        background: #33f;
+        color: white;
+        margin: 0;
+        padding: 0.5cm;
+        font-weight: bold;
+        box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.5);
+}
+#cabecera #tagline
+{
+        margin: 0 0 0 1cm;
+        font-weight: normal; 
+        font-size: 0.5cm;
+
+}
 #container
 {
         width: 70%;
@@ -18,6 +34,9 @@ body
         font-size: 20px;
 
 }
-
+#post
+{
+        padding: 1cm;
+}
 
         
